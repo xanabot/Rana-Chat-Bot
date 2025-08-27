@@ -56,7 +56,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "𝐅𝐚𝐫𝐡𝐚𝐝") || (event.body.toLowerCase() == "Farhad bai") || (event.body.toLowerCase() == "@Md Farhad Uddin") || (event.body.toLowerCase() == "ফরহাদ ")) {
+  if ((event.body.toLowerCase() == "𝐑𝐀𝐍𝐀") || (event.body.toLowerCase() == "RANA bai") || (event.body.toLowerCase() == "@RANA") || (event.body.toLowerCase() == "রানা ")) {
      return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
@@ -67,11 +67,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
-     return api.sendMessage("My Creator: RANA ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস  RANA আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
+     return api.sendMessage("My Creator: 𝐑𝐀𝐍𝐀 ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস  𝐑𝐀𝐍𝐀 আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
-     return api.sendMessage("He is RANA❤️ তাকে সবাই রানা নামে  চিনে🤙", threadID);
+     return api.sendMessage("He is 𝐑𝐀𝐍𝐀❤️ তাকে সবাই রানা নামে  চিনে🤙", threadID);
    };
 
    if ((event.body.toLowerCase() == "bhabi") || (event.body.toLowerCase() == "vabi")) {
@@ -108,7 +108,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "@Tahmina Mujumder ") || (event.body.toLowerCase() == "তাহামিনা")) {
-     return api.sendMessage("🥰-তাহামিনা-🌺 আমার বস রানার'বউ লাগে লুচ্ছা বেডা'রা দূরে থাক😠🥰⛏️", threadID);
+     return api.sendMessage("🥰-সানিলিওন-🌺 আমার বস রানার'বউ লাগে লুচ্ছা বেডা'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
    if ((event.body.toLowerCase() == "KISS ME") || (event.body.toLowerCase() == "kiss me")) {
